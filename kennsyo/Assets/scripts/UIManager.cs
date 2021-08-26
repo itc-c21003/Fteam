@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 
 public class UIManager : MonoBehaviour
@@ -11,6 +10,7 @@ public class UIManager : MonoBehaviour
 
     public void SetOnBotton()
     {
+        //on,off‚Ìƒ{ƒ^ƒ“‚ð“ü‚ê‘Ö‚¦‚é
         OnPanel.SetActive(false);
         OffPanel.SetActive(true);
     }

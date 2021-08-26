@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/taitor.unity
+    guid: dcb592c2456bad54fa57a69d98ac05f3
+  - enabled: 1
+    path: Assets/Scenes/stage1.unity
+    guid: c74b2d254805f9c4c9e35176964fc951
+  - enabled: 1
+    path: Assets/Scenes/cria.unity
+    guid: 2a26219a15aa3f74b8d4b5eadd3533a1
   m_configObjects: {}
